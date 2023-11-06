@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/blblivmgdclgya8o?svg=true)](https://ci.appveyor.com/project/Julia-Nemkina/aqa-hw6-bdd-pageobject)
